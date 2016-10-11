@@ -1,5 +1,5 @@
-title: Webjeda Slides
-description: Webjeda slides is built using revealjs. The idea is to keep all the slideshows in one place as posts. All your presentations can be accessed from one place!
+title: lndonions sliders
+description: lndonio sliders ti permetter di creare la tua presentazione online offline per eventi, presentazioni, prototipo, portfolio, sito web promozionale.
 
 
 
@@ -19,7 +19,7 @@ compress_html:
   startings: []
 
 
-analytics: 
+analytics:
 
 color-1: '#e74c3c'
 color-2: '##1abc9c'
